@@ -1,5 +1,5 @@
 # CanvasQOL
-A tampermonkey script to aid in some of the repetitive grading tasks one might face in canvas.
+A tampermonkey script to aid in some of the repetitive grading tasks one might face in canvas. Currently speedgrader-exclusive, but scope may expand in the future.
 
 ## Installation
 First, install Tampermonkey to your browser from <a href="https://www.tampermonkey.net/">this page</a>.
